@@ -1,2 +1,4 @@
 # Paper-Replication
-Paper from Google Research Team implemented using Pytorch code, firther details are as follows
+##Research Paper
+Paper from Google Research Team implemented using Pytorch code
+Google Research Paper: https://arxiv.org/pdf/2010.11929.pdf
